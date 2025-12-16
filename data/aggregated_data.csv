@@ -1,0 +1,49 @@
+participant_id,task,task_deadline,task_deadline_day,task_points,task_concreteness,task_difficulty,task_duration,perceived_concreteness,perceived_difficulty,perceived_duration,perceived_reward,completed,completion_count,first_completion_time,relative_completion_day,days_late,discounted_points
+wagtail,Sort a deck of cards,Tuesday,1,5,high,easy,short,10.0,1.0,1.0,3.0,True,1,2025-12-05 23:44:17,1.0,0.0,5.0
+wagtail,Complete a short quiz,Thursday,3,5,high,easy,short,10.0,4.0,2.0,2.0,True,1,2025-12-08 22:34:58,4.0,1.0,4.5
+wagtail,Complete fraternity chore,Saturday,5,25,high,medium,long,8.0,2.0,3.0,5.0,False,0,,,,
+wagtail,Write a brief reflection,Tuesday,1,15,medium,medium,medium,5.0,3.0,4.0,7.0,False,0,,,,
+wagtail,Draw for ten minutes,Thursday,3,10,medium,easy,medium,3.0,3.0,4.0,3.0,False,0,,,,
+wagtail,Solve a logic puzzle,Saturday,5,15,medium,hard,medium,7.0,7.0,6.0,5.0,True,1,2025-12-08 22:42:34,4.0,-1.0,15.0
+wagtail,Explain a difficult concept from class,Tuesday,1,20,low,hard,medium,5.0,9.0,8.0,7.0,False,0,,,,
+wagtail,Analyze a short passage,Thursday,3,20,low,hard,long,2.0,6.0,7.0,1.0,False,0,,,,
+gila monster,Sort a deck of cards,Tuesday,1,5,high,easy,short,10.0,2.0,2.0,6.0,False,0,,,,
+gila monster,Complete a short quiz,Thursday,3,5,high,easy,short,8.0,4.0,4.0,5.0,False,0,,,,
+gila monster,Complete fraternity chore,Saturday,5,25,high,medium,long,6.0,7.0,7.0,7.0,False,0,,,,
+gila monster,Write a brief reflection,Tuesday,1,15,medium,medium,medium,6.0,5.0,6.0,3.0,False,0,,,,
+gila monster,Draw for ten minutes,Thursday,3,10,medium,easy,medium,8.0,3.0,4.0,6.0,False,0,,,,
+gila monster,Solve a logic puzzle,Saturday,5,15,medium,hard,medium,9.0,2.0,5.0,5.0,False,0,,,,
+gila monster,Explain a difficult concept from class,Tuesday,1,20,low,hard,medium,7.0,4.0,4.0,6.0,True,1,2025-12-02 14:48:36,1.0,0.0,20.0
+gila monster,Analyze a short passage,Thursday,3,20,low,hard,long,6.0,4.0,6.0,5.0,False,0,,,,
+aphid-1,Sort a deck of cards,Tuesday,1,5,high,easy,short,8.0,1.0,1.0,1.0,True,1,2025-12-02 10:55:02,1.0,0.0,5.0
+aphid-1,Complete a short quiz,Thursday,3,5,high,easy,short,8.0,1.0,1.0,2.0,True,1,2025-12-01 23:36:55,0.0,-3.0,5.0
+aphid-1,Complete fraternity chore,Saturday,5,25,high,medium,long,10.0,2.0,5.0,6.0,False,0,,,,
+aphid-1,Write a brief reflection,Tuesday,1,15,medium,medium,medium,9.0,2.0,3.0,4.0,True,1,2025-12-01 23:54:54,0.0,-1.0,15.0
+aphid-1,Draw for ten minutes,Thursday,3,10,medium,easy,medium,6.0,3.0,4.0,3.0,False,0,,,,
+aphid-1,Solve a logic puzzle,Saturday,5,15,medium,hard,medium,7.0,4.0,4.0,8.0,True,1,2025-12-01 23:42:42,0.0,-5.0,15.0
+aphid-1,Explain a difficult concept from class,Tuesday,1,20,low,hard,medium,5.0,5.0,6.0,8.0,True,1,2025-12-02 22:45:45,1.0,0.0,20.0
+aphid-1,Analyze a short passage,Thursday,3,20,low,hard,long,4.0,5.0,5.0,5.0,False,0,,,,
+hummingbird,Sort a deck of cards,Tuesday,1,5,high,easy,short,9.0,5.0,9.0,1.0,False,0,,,,
+hummingbird,Complete a short quiz,Thursday,3,5,high,easy,short,8.0,7.0,6.0,4.0,False,0,,,,
+hummingbird,Complete fraternity chore,Saturday,5,25,high,medium,long,8.0,4.0,5.0,7.0,False,0,,,,
+hummingbird,Write a brief reflection,Tuesday,1,15,medium,medium,medium,6.0,6.0,7.0,8.0,False,0,,,,
+hummingbird,Draw for ten minutes,Thursday,3,10,medium,easy,medium,8.0,2.0,8.0,6.0,False,0,,,,
+hummingbird,Solve a logic puzzle,Saturday,5,15,medium,hard,medium,9.0,4.0,4.0,5.0,False,0,,,,
+hummingbird,Explain a difficult concept from class,Tuesday,1,20,low,hard,medium,9.0,4.0,2.0,8.0,False,0,,,,
+hummingbird,Analyze a short passage,Thursday,3,20,low,hard,long,7.0,6.0,3.0,3.0,False,0,,,,
+kingfisher,Sort a deck of cards,Tuesday,1,5,high,easy,short,8.0,1.0,1.0,2.0,False,0,,,,
+kingfisher,Complete a short quiz,Thursday,3,5,high,easy,short,7.0,3.0,2.0,2.0,True,1,2025-12-01 17:08:00,0.0,-3.0,5.0
+kingfisher,Complete fraternity chore,Saturday,5,25,high,medium,long,7.0,3.0,4.0,6.0,False,0,,,,
+kingfisher,Write a brief reflection,Tuesday,1,15,medium,medium,medium,7.0,2.0,3.0,3.0,False,0,,,,
+kingfisher,Draw for ten minutes,Thursday,3,10,medium,easy,medium,8.0,5.0,2.0,3.0,True,1,2025-12-01 17:33:33,0.0,-3.0,10.0
+kingfisher,Solve a logic puzzle,Saturday,5,15,medium,hard,medium,7.0,4.0,3.0,5.0,True,1,2025-12-01 17:41:33,0.0,-5.0,15.0
+kingfisher,Explain a difficult concept from class,Tuesday,1,20,low,hard,medium,8.0,6.0,5.0,7.0,False,0,,,,
+kingfisher,Analyze a short passage,Thursday,3,20,low,hard,long,6.0,6.0,5.0,3.0,False,0,,,,
+aphid-2,Sort a deck of cards,Tuesday,1,5,high,easy,short,10.0,1.0,1.0,1.0,True,1,2025-12-06 01:49:35,2.0,1.0,4.5
+aphid-2,Complete a short quiz,Thursday,3,5,high,easy,short,10.0,2.0,2.0,4.0,True,1,2025-12-09 00:25:46,5.0,2.0,4.0
+aphid-2,Complete fraternity chore,Saturday,5,25,high,medium,long,7.0,6.0,7.0,7.0,False,0,,,,
+aphid-2,Write a brief reflection,Tuesday,1,15,medium,medium,medium,5.0,4.0,5.0,3.0,True,1,2025-12-09 00:47:03,5.0,4.0,9.0
+aphid-2,Draw for ten minutes,Thursday,3,10,medium,easy,medium,8.0,2.0,3.0,3.0,False,0,,,,
+aphid-2,Solve a logic puzzle,Saturday,5,15,medium,hard,medium,10.0,5.0,4.0,4.0,True,1,2025-12-09 00:34:22,5.0,0.0,15.0
+aphid-2,Explain a difficult concept from class,Tuesday,1,20,low,hard,medium,4.0,7.0,4.0,5.0,False,0,,,,
+aphid-2,Analyze a short passage,Thursday,3,20,low,hard,long,2.0,5.0,5.0,2.0,False,0,,,,
